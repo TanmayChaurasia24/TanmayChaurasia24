@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmay-kumar-chaurasia-851806245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-kumar-chaurasia-851806245" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanmay-kumar-chaurasia-851806245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-kumar-chaurasia-851806245" height="30" width="40" /></a>
 <a href="https://medium.com/@kuamrchaurasiatanmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kuamrchaurasiatanmay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tanmay_kumar_26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanmay_kumar_26/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/tanmay_kumar_26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tanmay_kumar_26/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
