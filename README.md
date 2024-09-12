@@ -25,10 +25,10 @@
   </a>
 </p>
   <hr/>
-<img align="center" src="https://leetcard.jacoblin.cool/tanmay_kumar_26" alt="LeetCode Heatmap" />
+<img align="center" src="https://leetcard.jacoblin.cool/tanmay_kumar_26?theme=dark&font=Noto%20Sans%20Gothic&ext=heatmap" alt="LeetCode Heatmap" />
 <br><br>
-<img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=tanmay_kumar_26&theme=dark" alt="LeetCode Badges" />
 
+<hr/>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  
+  <hr/>
 <div align="center">
   <br><br>
   <img src="https://streak-stats.demolab.com?user=TanmayChaurasia24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="190" alt="streak graph" />
