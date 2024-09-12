@@ -15,7 +15,7 @@
 - 💬 Ask me about **MERN Stack and Docker**
 - 📫 How to reach me **kuamrchaurasiatanmay@gmail.com**
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={tanmay_kumar_26}&animated=true" alt="LeetCode Badges"/>
+![](https://leetcard.jacoblin.cool/tanmay_kumar_26?ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
