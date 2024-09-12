@@ -25,7 +25,7 @@
   </a>
 </p>
   <hr/>
-<img align="left" src="https://leetcard.jacoblin.cool/tanmay_kumar_26?ext=heatmap" alt="LeetCode Heatmap" />
+<img align="left" src="https://leetcard.jacoblin.cool/tanmay_kumar_26" alt="LeetCode Heatmap" />
 <br><br>
 <img align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=tanmay_kumar_26&theme=dark" alt="LeetCode Badges" />
 
