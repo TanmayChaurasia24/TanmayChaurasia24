@@ -25,9 +25,9 @@
   </a>
 </p>
   <hr/>
-<img align="left" src="https://leetcard.jacoblin.cool/tanmay_kumar_26" alt="LeetCode Heatmap" />
+<img align="center" src="https://leetcard.jacoblin.cool/tanmay_kumar_26" alt="LeetCode Heatmap" />
 <br><br>
-<img align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=tanmay_kumar_26&theme=dark" alt="LeetCode Badges" />
+<img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=tanmay_kumar_26&theme=dark" alt="LeetCode Badges" />
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
