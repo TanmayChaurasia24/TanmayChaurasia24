@@ -28,7 +28,6 @@
 <img align="left" src="https://leetcard.jacoblin.cool/tanmay_kumar_26?ext=heatmap" alt="LeetCode Heatmap" />
 <img align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=tanmay_kumar_26&theme=dark" alt="LeetCode Badges" />
 
-<hr/>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,8 +71,9 @@
 <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-<hr/>
+  
 <div align="center">
+  <hr/>
   <img src="https://streak-stats.demolab.com?user=TanmayChaurasia24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayChaurasia24&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChaurasia24&area=true&hide_border=true&radius=16&theme=github-dark-dimmed" height="214" alt="activity-graph graph" />
