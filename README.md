@@ -25,7 +25,6 @@
   </a>
 </p>
   <hr/>
-<img align="center" src="https://leetcard.jacoblin.cool/tanmay_kumar_26?theme=dark&font=Noto%20Sans%20Gothic&ext=heatmap" alt="LeetCode Heatmap" />
 <br><br>
 
 <hr/>
