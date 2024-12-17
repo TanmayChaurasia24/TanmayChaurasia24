@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tanmay Kumar Chaurasia</h1>
 <h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
+
+---
+
 <div>
+<div align="left">
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-  - 🌱 I’m currently learning **Next.js and TypeScript**
-  - 👯 I’m looking to collaborate on **web development and DevOps**
-  - 🤝 I’m looking for help with **DevOps**
-  - 📝 I regularly write articles on [Medium](https://medium.com/@kuamrchaurasiatanmay)
-  - 💬 Ask me about **MERN Stack and Docker**
-  - 📫 How to reach me: **kuamrchaurasiatanmay@gmail.com**
+  <p> 🌱 I’m currently learning Next.js and TypeScript</p>
+  <p> 👯 I’m looking to collaborate on web development and DevOps</p>
+  <p> 🤝 I’m looking for help with blockchain</p>
+  <p> 📝 I regularly write articles on [Medium](https://medium.com/@kuamrchaurasiatanmay)</p>
+  <p> 💬 Ask me about MERN Stack and Docker</p>
+  <p> 📫 How to reach me: kuamrchaurasiatanmay@gmail.com</p>
 </div>
 
 ---
