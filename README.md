@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Kumar Chaurasia</h1>
 <h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TanmayChaurasia24&theme=default&hide_border=false)
-
 <div>
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
@@ -99,7 +96,6 @@
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=TanmayChaurasia24&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
