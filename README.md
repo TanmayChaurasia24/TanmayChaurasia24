@@ -2,7 +2,7 @@
 <h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
 
 <div>
-  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
   - 🌱 I’m currently learning **Next.js and TypeScript**
   - 👯 I’m looking to collaborate on **web development and DevOps**
@@ -22,7 +22,7 @@
   <a href="https://medium.com/@kuamrchaurasiatanmay" target="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.leetcode.com/tanmay_kumar_26" target="blank">
+  <a href="https://leetcode.com/u/tanmayKumarChaurasia_2026/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
@@ -94,16 +94,10 @@
 
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TanmayChaurarsia24"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=TanmayChaurasia24&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayChaurasia24&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
-
----
-
-<h3 align="center">🐍 Snake Animation:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/snake.svg" alt="Snake Animation" />
-</p>
 
 ---
 
