@@ -91,10 +91,10 @@
 </p>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=TanmayChaurasia24&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TanmayChaurarsia24"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=TanmayChaurasia24&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayChaurasia24&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
