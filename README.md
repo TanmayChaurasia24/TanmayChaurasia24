@@ -2,7 +2,6 @@
 <h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
 <div>
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
   - 🌱 I’m currently learning **Next.js and TypeScript**
   - 👯 I’m looking to collaborate on **web development and DevOps**
   - 🤝 I’m looking for help with **DevOps**
@@ -102,6 +101,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TanmayChaurasia24&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayChaurasia24&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
+
+---
+
+<h3 align="center">🔥 Streak Stats:</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TanmayChaurasia24&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
