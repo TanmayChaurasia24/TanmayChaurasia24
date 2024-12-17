@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanmay Kumar Chaurasia</h1>
 <h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanmayChaurasia24&theme=default&hide_border=false)
+
 <div>
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
@@ -13,7 +15,6 @@
 </div>
 
 ---
-
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/tanmay-kumar-chaurasia-851806245" target="blank">
@@ -29,6 +30,13 @@
 
 ---
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmaychaurasia24" alt="tanmaychaurasia24" /></a> </p>
+
+---
+
+![](https://leetcard.jacoblin.cool/tanmayKumarChaurasia_2026?ext=heatmap)
+
+---
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
