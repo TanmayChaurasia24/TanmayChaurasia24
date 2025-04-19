@@ -107,7 +107,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TanmayChaurasia24&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaychaurasia24&show_icons=true&locale=en&layout=compact" alt="tanmaychaurasia24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmaychaurasia24&show_icons=true&locale=en" alt="tanmaychaurasia24" /></p>
 
