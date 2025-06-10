@@ -7,7 +7,7 @@
 <div align="left">
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
   <p> 🌱 I’m currently learning Web3</p>
-  <p> 👯 I’m looking to collaborate on web development and DevOps</p>
+  <p> 👯 I’m looking to collaborate on web2, devops and web3</p>
   <p> 🤝 I’m looking for help with blockchain</p>
   <p> 📝 I regularly write articles on [Medium](https://medium.com/@kuamrchaurasiatanmay)</p>
   <p> 💬 Ask me about Web2, Web3 and Devops</p>
