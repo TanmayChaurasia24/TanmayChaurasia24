@@ -1,116 +1,137 @@
-<h1 align="center">Hi 👋, I'm Tanmay Kumar Chaurasia</h1>
-<h3 align="center">"Empowering Innovation: Your Next Web Development Catalyst"</h3>
-
----
-
-<div>
-<div align="left">
-  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-  <p> 🌱 I’m currently learning Web3</p>
-  <p> 👯 I’m looking to collaborate on web2, devops and web3</p>
-  <p> 🤝 I’m looking for help with blockchain</p>
-  <p> 📝 I regularly write articles on [Medium](https://medium.com/@kuamrchaurasiatanmay)</p>
-  <p> 💬 Ask me about Web2, Web3 and Devops</p>
-  <p> 📫 How to reach me: kuamrchaurasiatanmay@gmail.com</p>
-</div>
-
----
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/tanmay-kumar-chaurasia-851806245" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@kuamrchaurasiatanmay" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://leetcode.com/u/tanmayKumarChaurasia_2026/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
-
-![](https://leetcard.jacoblin.cool/tanmayKumarChaurasia_2026?ext=heatmap)
-
----
-<h3 align="center">💻 Languages and Tools:</h3>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-</p>
-
----
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=230&section=header&text=Tanmay%20Kumar%20Chaurasia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Web3&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" />
 
 <div align="center">
-  <h3>📊 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayChaurasia24&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+
+<a href="https://tanmaykumarchaurasia.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=Empowering+Innovation+%E2%9A%A1;Your+Next+Web+Development+Catalyst+%F0%9F%9A%80;Building+for+Web2+%E2%86%92+Web3+%F0%9F%8C%90;Shipping+code.+Containerizing+it.+Deploying+it.+%F0%9F%90%B3" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=TanmayChaurasia24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/TanmayChaurasia24?style=for-the-badge&logo=github&color=8957e5" alt="Followers" />
+<img src="https://img.shields.io/github/stars/TanmayChaurasia24?style=for-the-badge&logo=starship&color=f1c40f" alt="Stars" />
+
+<br/><br/>
+
+<a href="https://tanmaykumarchaurasia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/tanmay-kumar-chaurasia-851806245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dev.to/tanmay2627"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+<a href="mailto:kuamrchaurasiatanmay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
----
-
-<h3 align="center">🔥 Streak Stats:</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TanmayChaurasia24&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<br/>
 
 ---
 
-<h3 align="center">🚀 Profile Views:</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/TanmayChaurasia24/count.svg?" alt="Profile Counter" />
-</p>
+## 👨‍💻 &nbsp;whoami
+
+```ts
+const tanmay = {
+  role: "Full-Stack Developer",
+  location: "Kanpur, India 🇮🇳",
+  currentlyLearning: ["Web3", "Solidity", "Smart Contract Security"],
+  currentlyBuilding: "Things that scale (and ship) 🚀",
+  lookingToCollaborateOn: ["Web2", "DevOps", "Web3"],
+  needHelpWith: "Blockchain internals",
+  askMeAbout: ["React / Next.js", "Node.js", "Docker & Kubernetes", "Web3"],
+  funFact: "I containerize things that don't need containers 🐳",
+};
+```
+
+<br/>
+
+## 🧰 &nbsp;Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,cs,html,css&perline=9" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,threejs,webpack&perline=7" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,mysql,redis,firebase&perline=8" alt="Backend" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana,linux,git,github,githubactions,vercel,npm&perline=10" alt="DevOps" />
+
+</div>
+
+<br/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanmayChaurasia24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChaurasia24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanmayChaurasia24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+</div>
+
+<br/>
+
+## 📈 &nbsp;Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChaurasia24&bg_color=0d1117&color=00f5a0&line=8957e5&point=ffffff&area=true&area_color=8957e5&hide_border=true" alt="Activity graph" />
+
+<br/>
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+## ✍️ &nbsp;Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <a href="https://dev.to/tanmay2627"><img src="https://img.shields.io/badge/Read%20more%20on%20DEV.to%20%E2%86%92-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="More posts" /></a>
+</div>
+
+<br/>
+
+## 🎯 &nbsp;Currently On My Radar
+
+| 🌱 Learning | 🔨 Building | 🤝 Open To |
+|:---|:---|:---|
+| Web3 & Solidity | Full-stack web apps | Web2 collaborations |
+| Smart contract basics | DevOps pipelines (CI/CD) | DevOps projects |
+| Blockchain architecture | Portfolio & side projects | Web3 / blockchain help |
+
+<br/>
+
+## 💬 &nbsp;Let's Connect
+
+> Got an idea, a bug that won't die, or a Web3 project that needs another pair of hands?
+> **My inbox is open →** [kuamrchaurasiatanmay@gmail.com](mailto:kuamrchaurasiatanmay@gmail.com)
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" alt="Footer" />
