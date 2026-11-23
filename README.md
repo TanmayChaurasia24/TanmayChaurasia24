@@ -67,41 +67,6 @@ const tanmay = {
 
 <br/>
 
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanmayChaurasia24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayChaurasia24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanmayChaurasia24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
-## 📈 &nbsp;Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayChaurasia24&bg_color=0d1117&color=00f5a0&line=8957e5&point=ffffff&area=true&area_color=8957e5&hide_border=true" alt="Activity graph" />
-
-<br/>
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TanmayChaurasia24/TanmayChaurasia24/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
 ## ✍️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
